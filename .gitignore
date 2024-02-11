@@ -1,0 +1,15 @@
+# Python specific
+*.pyc
+*.pyo
+__pycache__/
+
+# IDE specific
+.vscode/
+*.swp
+
+# Environment / OS specific
+.env
+.DS_Store
+
+# Ignore the "data" folder
+data/
